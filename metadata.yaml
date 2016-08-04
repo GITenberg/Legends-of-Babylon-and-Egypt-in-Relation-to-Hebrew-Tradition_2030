@@ -1,0 +1,34 @@
+_repo: Legends-of-Babylon-and-Egypt-in-Relation-to-Hebrew-Tradition_2030
+_version: 0.0.1
+creator:
+  author:
+    agent_name: King, L. W. (Leonard William)
+    alias: King, Leonard William
+    birthdate: 1869
+    deathdate: 1919
+    gutenberg_agent_id: '793'
+    url: http://www.gutenberg.org/2009/agents/793
+description: ''
+gutenberg_bookshelf:
+- Egypt
+- Mythology
+gutenberg_issued: '2006-03-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2030'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BM'
+- !lcsh 'Babylonia -- Antiquities'
+- !lcsh 'Creation'
+- !lcsh 'Cosmogony, Babylonian'
+- !lcsh 'Egypt -- Antiquities'
+- !lcsh 'Bible -- Evidences, authority, etc.'
+- !lcsh 'Bible. Old Testament -- Evidences, authority, etc.'
+- !lcsh 'Deluge'
+- GITenberg
+title: Legends of Babylon and Egypt in Relation to Hebrew Tradition
+url: http://www.gutenberg.org/ebooks/2030
